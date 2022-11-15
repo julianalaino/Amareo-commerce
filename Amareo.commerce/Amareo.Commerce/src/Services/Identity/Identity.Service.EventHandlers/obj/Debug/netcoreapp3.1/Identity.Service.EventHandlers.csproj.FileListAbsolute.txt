@@ -1,0 +1,15 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Service.EventHandlers.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Service.EventHandlers.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Service.EventHandlers.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Domain.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Persistence.Database.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Domain.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\bin\Debug\netcoreapp3.1\Identity.Persistence.Database.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.csproj.CopyComplete
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Identity\Identity.Service.EventHandlers\obj\Debug\netcoreapp3.1\Identity.Service.EventHandlers.pdb

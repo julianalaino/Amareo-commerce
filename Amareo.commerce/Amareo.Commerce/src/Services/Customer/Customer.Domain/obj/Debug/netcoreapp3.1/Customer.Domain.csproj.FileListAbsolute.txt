@@ -1,0 +1,10 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.pdb

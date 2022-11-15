@@ -1,0 +1,13 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\netcoreapp3.1\Api.Gateway.Models.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\bin\Debug\netcoreapp3.1\Api.Gateway.Models.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.csproj.CopyComplete
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.WebClient.Proxy\obj\Debug\netcoreapp3.1\Api.Gateway.WebClient.Proxy.pdb

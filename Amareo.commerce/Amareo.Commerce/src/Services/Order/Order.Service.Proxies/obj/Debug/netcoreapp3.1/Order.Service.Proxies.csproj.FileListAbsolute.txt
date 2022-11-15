@@ -1,0 +1,10 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netcoreapp3.1\Order.Service.Proxies.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netcoreapp3.1\Order.Service.Proxies.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\bin\Debug\netcoreapp3.1\Order.Service.Proxies.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Order\Order.Service.Proxies\obj\Debug\netcoreapp3.1\Order.Service.Proxies.pdb

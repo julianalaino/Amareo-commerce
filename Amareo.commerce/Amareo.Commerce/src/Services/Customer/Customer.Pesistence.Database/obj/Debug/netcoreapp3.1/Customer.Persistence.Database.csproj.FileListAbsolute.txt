@@ -1,0 +1,13 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\bin\Debug\netcoreapp3.1\Customer.Persistence.Database.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\bin\Debug\netcoreapp3.1\Customer.Persistence.Database.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\bin\Debug\netcoreapp3.1\Customer.Persistence.Database.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.csproj.CopyComplete
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Services\Customer\Customer.Pesistence.Database\obj\Debug\netcoreapp3.1\Customer.Persistence.Database.pdb

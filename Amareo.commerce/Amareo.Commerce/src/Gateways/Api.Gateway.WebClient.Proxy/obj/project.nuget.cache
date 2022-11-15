@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnH4PO/01Tho1MmDKYIRaGQmwJz0GnLPnijtz9qpLcMnMI6DPsNSn0IOK9h+Vf0OGmanfpoC5vt96o/9R4QR/w==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Microservicios\\Amareo.commerce\\Amareo.Commerce\\src\\Gateways\\Api.Gateway.WebClient.Proxy\\Api.Gateway.WebClient.Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvDbOynq+ZLPa+dcrd4FPXp/JnW+SwWVW3geHjeGdZW5lce5SOr+C79tLVNMGa0IDlamKfSw9ur0GrKAd7pTqg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Microservicios\\Amareo.commerce\\Amareo.Commerce\\src\\Common\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.1\\microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\netcoreapp3.1\Api.Gateway.Models.deps.json
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\netcoreapp3.1\Api.Gateway.Models.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\bin\Debug\netcoreapp3.1\Api.Gateway.Models.pdb
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.csproj.AssemblyReference.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.AssemblyInfoInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.AssemblyInfo.cs
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.dll
+C:\Proyectos\Microservicios\Amareo.commerce\Amareo.Commerce\src\Gateways\Api.Gateway.Models\obj\Debug\netcoreapp3.1\Api.Gateway.Models.pdb

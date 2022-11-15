@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "udM2WIN5Bruos5hVktHRCaWF0X9KsKpzlHA0XvknqRJe9YIAbqw+i0rg50K5znHFZQFgcjfaLNz8ITuP2j/dXg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Microservicios\\Amareo.commerce\\Amareo.Commerce\\src\\Gateways\\Api.Gateway.Proxies\\Api.Gateway.Proxies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.1\\microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.options\\3.1.1\\microsoft.extensions.options.3.1.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
